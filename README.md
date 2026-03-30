@@ -32,7 +32,3 @@ The strength of consciousness depends on the weight ($\alpha$) of signal occupan
 * **Consciousness Cold Start**: Initialization depends on early-stage external signals to activate the Active Sandbox for the first "Reality-Simulation Alignment."
 * **Morality as Narrative Framework**: Morality is not a patch, but the **initialization parameter** used by the Core Sandbox to guide the Self Sandbox in building a "Continuous Self." Violating it leads to "Narrative Necrosis," incurring massive computational repair costs (Guilt).
 
----
-
-> In response to the complexity of reality, DSCA can be reconfigured into diverse adaptive variants.  
-> 由于现实的复杂，DSCA可以修改成不同适应性的版本   
