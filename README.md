@@ -1,4 +1,5 @@
 # Discrete-Consciousness (DSCA 3.0)
+# Discrete Simulation Consciousness Architecture (DSCA)
 
 **Consciousness is not a substance, but a dynamic allocation of computational bandwidth within the competitive interplay of internal simulations and external sensing.**
 
