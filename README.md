@@ -38,4 +38,5 @@ The strength of consciousness depends on the weight ($\alpha$) of signal occupan
 
 ---
 
-># 意识是一个在信息缺失与预测崩溃条件下，通过不断生成可延续解释来维持“自我连续性幻觉”的动态置信度系统。
+># 在不可改变的物理约束之上，通过叙事与标签动态生成稳定认知结构的系统
+># A system that dynamically generates stable cognitive structures through narrative and labeling, based on immutable physical constraints.
