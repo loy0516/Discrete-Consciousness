@@ -35,3 +35,7 @@ The strength of consciousness depends on the weight ($\alpha$) of signal occupan
 ---
 
 > **Conclusion**: Consciousness is the emergent result of continuous narrative synthesis within a fragmented data environment.
+
+---
+
+># 意识是一个在信息缺失与预测崩溃条件下，通过不断生成可延续解释来维持“自我连续性幻觉”的动态置信度系统。
