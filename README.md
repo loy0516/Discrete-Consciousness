@@ -34,5 +34,5 @@ The strength of consciousness depends on the weight ($\alpha$) of signal occupan
 
 ---
 
-># DSCA is a cognitive dynamic system that, built upon unalterable physical constraints, continuously compresses global uncertainty through signal filtering, label generation, and narrative stitching, while evolving persistently with the Self as a stable attractor.
-># DSCA是一个在不可更改的现实约束之上，通过信号筛选、标签生成与叙事缝合不断压缩世界的不确定性，并以自我作为稳定吸引子持续演化的认知动力系统。
+> In response to the complexity of reality, DSCA can be reconfigured into diverse adaptive variants.  
+> 由于现实的复杂，DSCA可以修改成不同适应性的版本   
