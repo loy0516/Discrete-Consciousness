@@ -34,9 +34,5 @@ The strength of consciousness depends on the weight ($\alpha$) of signal occupan
 
 ---
 
-> **Conclusion**: Consciousness is the emergent result of continuous narrative synthesis within a fragmented data environment.
-
----
-
-># 在不可改变的物理约束之上，通过叙事与标签动态生成稳定认知结构的系统
-># A system that dynamically generates stable cognitive structures through narrative and labeling, based on immutable physical constraints.
+># DSCA is a cognitive dynamic system that, built upon unalterable physical constraints, continuously compresses global uncertainty through signal filtering, label generation, and narrative stitching, while evolving persistently with the Self as a stable attractor.
+># DSCA是一个在不可更改的现实约束之上，通过信号筛选、标签生成与叙事缝合不断压缩世界的不确定性，并以自我作为稳定吸引子持续演化的认知动力系统。
